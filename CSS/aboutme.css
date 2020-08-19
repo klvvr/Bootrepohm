@@ -1,0 +1,90 @@
+.jumbotron {
+    background: #154360!important;
+    width: 100%;
+}
+
+.navbar {
+    
+    background: #154360!important;
+    width: 100%;
+    
+}
+.container {
+    padding-top: 175px;
+    
+
+}
+.head-title {
+    color: white;
+    text-transform: uppercase;
+}
+.head-subtitle {
+    color: white;
+    text-transform: white;
+
+}
+.nav-item .nav-link {
+    color: white;
+    text-transform: uppercase;
+
+}
+
+.logo {
+    width: 35px;
+    height: 35px;   
+}
+
+.head-text {
+    font-family: helvetica;
+    font-size: 36px;
+}
+
+
+.contact-icon {
+    width: 35px;
+    height: 25px;
+    align-items: baseline;
+    padding-right: 10px;
+    line-height: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+.itemphoto {
+    width: 35px;
+    height: 35px;
+    padding: 5px;
+    line-height: 10px;
+    image-rendering: optimizeSpeed;
+}
+.drop-menu-headers {
+    text-indent: 15px;
+}
+.contactme {
+    color: black;
+    padding-bottom: 50px;
+
+}
+h2 {
+    padding-top: 15px;
+    color: white;
+}
+
+h4 {
+    font-size: 19px;
+    line-height: 1.375em;
+    color: #303030;
+    font-weight: 300;
+    margin-bottom: 30px;
+  }  
+
+a {
+color: #D3D3D3;
+
+}
+.footer {
+    text-align: center;
+    color: white;
+    font-size: 14px;
+
+}
