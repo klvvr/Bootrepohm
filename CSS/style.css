@@ -1,4 +1,4 @@
-/* .container-fluid {
+.container-fluid {
     position: relative;
     min-height: 100vh;
     padding: 150px;
@@ -6,7 +6,7 @@
     justify-content: center;
     display: flex;
     justify-content: space-around;
-} */
+}
 
 .jumbotron {
     background-color: transparent;
@@ -27,7 +27,7 @@
 }
 
 .head-1 {
-    font-size: 55px;
+    font-size: 40px;
     text-transform: uppercase;
     color: #080808;
     font-weight: 450;
@@ -37,10 +37,10 @@
 }  
 
 .head-2 {
-    font-size: 30px;
+    font-size: 24px;
     text-transform: uppercase;
     color: #383838;
-    font-weight: 275;   
+    font-weight: 100;   
     line-height: 40px; 
     margin-bottom: 15px;
     width: 475px;
@@ -52,10 +52,15 @@
     color: #686868;
     line-height: 40px;
     width: 475px;
+    font-weight: lighter;
 
     
 }  
 
+.headsshot {
+    width: 40px;
+    height: 40px;
+}
 
 .body-text2 {
     color: #202020;
