@@ -2,6 +2,8 @@
 
 The professional porfolio includes web development projects completed over the past eight weeks. The inital projects are examples of basic web design and computer programming.
 
+![](http://pfuserfiles.globiflow.com/1197291572-16420-screenshot20200929at93825am.png)
+
 ## Contents
 
 - [Portfolio](https://paytonbanks.github.io/portfolio/)
