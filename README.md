@@ -11,31 +11,18 @@ The professional porfolio includes web development projects completed over the p
 - [Resume](https://drive.google.com/file/d/1DOJJV0xLQaGP4ucww2cSVvSujxQ93new/view)
 - [LinkedIn](https://www.linkedin.com/in/payton-banks-341a8a/)
 
-## Description
-README Introductions:
-- ReadMe descriptive introductions to each project, including a picture and/or video showing project functionality.
-
-- Technology & Installation sections that share any software used in the production. 
-
-- User instructions for program reproduction and installation.
-
-- Questions Section that offers any user an opportunity to contact me directly regarding each project.
+## Main Photo
+<span style="display:block;text-align:center">![Test Automation](landing.png)</span>
 
 
-## Profiles
-
-Personl profiles are avaialbe within the Github Profile, LinkedIn and the portfolio landing page. Each profile will include some or all of the following:
 
 
-1. Professional profile picture
+## Screen Shots (reletive)
 
-2. Biography
-
-3. Current Location
-
-4. Email Address & Phone Number
-
-5. Portfolio Link
+| | |
+|:-------------------------:|:-------------------------:|
+|![Landing](assets/portfolio/landing.png)Landing Page| ![Add](assets/portfolio/shot3.png) Portfolio PAge|
+|![Save](assets/portfolio/shot3.1.png) Project Selection| ![Delete](assets/portfolio/shot4.png) Contact Page|
 
 ## Developer Information
 *Payton Banks*
