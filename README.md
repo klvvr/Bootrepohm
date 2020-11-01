@@ -2,29 +2,30 @@
 
 The professional porfolio includes web development projects completed over the past eight weeks. The inital projects are examples of basic web design and computer programming.
 
-![](http://pfuserfiles.globiflow.com/1197291572-16420-screenshot20200929at93825am.png)
-
 ## Contents
-
 - [Portfolio](https://paytonbanks.github.io/portfolio/)
 - [GitHub Profile](https://github.com/paytonbanks)
 - [Resume](https://drive.google.com/file/d/1DOJJV0xLQaGP4ucww2cSVvSujxQ93new/view)
 - [LinkedIn](https://www.linkedin.com/in/payton-banks-341a8a/)
 
 ## Main Photo
-<span style="display:block;text-align:center">![Test Automation](landing.png)</span>
+<span style="display:block;text-align:center">![Test Automation](assets/portfolio/landing.png)</span>
 
+## Screen Shots
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|![Portfolio Page](assets/portfolio/shot1.png) Portfolio Page| ![Contact Page](assets/portfolio/shot2.png) Contact Page| ![Resume Link](assets/portfolio/shot3.png) Resume Link|
 
+## Technology
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Boostrap](https://getbootstrap.com/)
+* [Node.js](https://nodejs.org/en/)
 
+## License  
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) <br> *MIT License*
 
-## Screen Shots (reletive)
-
-| | |
-|:-------------------------:|:-------------------------:|
-|![Landing](assets/portfolio/landing.png)Landing Page| ![Add](assets/portfolio/shot3.png) Portfolio PAge|
-|![Save](assets/portfolio/shot3.1.png) Project Selection| ![Delete](assets/portfolio/shot4.png) Contact Page|
-
-## Developer Information
+## Developer Contact
 *Payton Banks*
 - [LinkedIn](https://www.linkedin.com/feed/)
 - [Github](https://github.com/paytonbanks)
