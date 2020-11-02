@@ -14,7 +14,7 @@ The professional porfolio includes web development projects completed over the p
 ## Screen Shots
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|![Portfolio Page](assets/portfolio/shot1.png) Portfolio Page| ![Contact Page](assets/portfolio/shot2.png) Contact Page| ![Resume Link](assets/portfolio/shot3.png) Resume Link|
+|![Portfolio](assets/portfolio/shot1.png) Portfolio| ![Contact](assets/portfolio/shot2.png) Contact| ![Resume](assets/portfolio/shot3.png) Resume|
 
 ## Technology
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
