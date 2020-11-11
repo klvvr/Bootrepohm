@@ -14,7 +14,13 @@
     margin-top: 100px;
 }
 
+.btn {
+  background-color: transparent !important;
+  border: transparent !important;
+  border-width: 0px !important;
+  align-items: center !important;
 
+}
 
 .card {
     height: 400px;
@@ -327,3 +333,9 @@ p {
 }
 
 .in-view { background-color: transparent; transform: scale(1); }
+
+.fa-user-alt, .fa-grip-horizontal {
+  width: 50px;
+  height:50px;
+  padding: 10px;
+}
